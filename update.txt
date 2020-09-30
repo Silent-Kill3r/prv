@@ -1,0 +1,11 @@
+def reqme(num):
+ try:
+   req=requests.get('https://raw.githubusercontent.com/Silent-Kill3r/prv/master/update.txt').content.split('\n')
+ except:pass
+ if num==1 :
+   return req[0]#cp
+ elif num == 2:return req[1]#v4
+ elif num == 3:return req[2]#olux
+ elif num == 4:return req[3]#xleet
+ elif num == 5:return req[0]#oluxm
+ elif num == 6:return req[0]#xleetm
