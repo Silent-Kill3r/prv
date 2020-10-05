@@ -1,13 +1,13 @@
 <?php
 
-/*** PHP Encode Sh*ll Auto v4 Fox ***/ 
+/*Silentkiller -2020*/ 
 
 /**
  * Leaf PHP Mailer by [leafmailer.pw]
  * @version : 2.8
 **/
 
-$password = "AnonymousFox"; // Password 
+$password = "Silentkiller"; // Password 
 
 
 
